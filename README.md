@@ -110,32 +110,3 @@ RUSSIAN RULES (RED)
   more than 2 = New population
 
 ***********************************************************
-
-
-
-Game of Life: The Europe, Attack of Russia
------------------------------------------------------------
-.   ______________________________  .
-. / \                             | .
-.|   | Russia was prepared to      |.
-. |_ | attack to europe without    |.
-.    | any warning.                |.
-.    |                             |.
-.    | But when the battle began   |.
-.    | all the ships were gone so  |.
-.    | no one dared to touch the   |.
-.    | water.                      |.
-.    |                             |.
-.    | Russian people are stronger |.
-.    | in bad conditions and       |.
-.    | europeans panic as welfare  |.
-.    | countries start to crumble. |.
-.    |                             |.
-.    | Some capitals in europe     |.
-.    | had built bunkers just in   |.
-.    | case, but russians had been |.
-.    | planning their attack way   |.
-.    | longer than anyone expected |.
-.    |   __________________________|___
-.    |  /                             /.
-.    \_/_____________________________/.
