@@ -39,7 +39,7 @@ This is my first programming project. Don't expect too much from this code.
 EUROPEAN RULES (WHITE)
 -----------------------------------------------------------
 ***********************************************************
--*Grass
+*Grass
   
   Immunities: 
   
@@ -51,7 +51,7 @@ EUROPEAN RULES (WHITE)
   more than 3 = change value to 0 (Overpopulation)
 
 ***********************************************************
--*Mountain
+*Mountain
   
   Immunities: Immune to lonliness
   
@@ -62,7 +62,7 @@ EUROPEAN RULES (WHITE)
   more than 4 = change value to 0 (Overpopulation)
 
 ***********************************************************
--*Bunker
+*Bunker
 
   Immunities: Immune to overpopulation
   
