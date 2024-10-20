@@ -1,6 +1,6 @@
 IDIR =../include
 CC=gcc
-CFLAGS=-I$(IDIR) #-Wall -pedantic -Wextra
+CFLAGS=-I $(IDIR) #-Wall -pedantic -Wextra
 
 ODIR=obj
 LDIR=../lib
@@ -15,7 +15,7 @@ _OBJ = calculate_game.o close_ncurses.o copy_matrix.o count_neighbours.o draw_bo
 OBJ = $(patsubst %,$(ODIR)/%,$(_OBJ))
 
 gameoflife: $(OBJ)
-	$(CC) -o $@ $^ $(LIBS)
+	$(CC) -o $@ $^ $(LIBS) -lncurses
 
 $(ODIR)/%.o: %.c $(DEPS) 
 	$(CC) -c -o $@ $< $(CFLAGS)
